@@ -10,5 +10,5 @@
 
 **Resources**
 ***
-Deploy, manage and share this application via the following Community Cloud!
-[![Static Badge](https://img.shields.io/badge/Open%20in%20Streamlit-Daochashao-red?style=for-the-badge&logo=streamlit&labelColor=white)](https://llm-com.streamlit.app/)
+Deploy, manage and share this application via the following Community Cloud!  
+[![Static Badge](https://img.shields.io/badge/Open%20in%20Streamlit-Daochashao-red?style=for-the-badge&logo=streamlit&labelColor=white)](https://ollama-call.streamlit.app/)
