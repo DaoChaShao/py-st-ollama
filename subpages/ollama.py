@@ -7,8 +7,7 @@
 # @Desc     :   
 
 from streamlit import (chat_input, empty, chat_message, write, sidebar,
-                       session_state, button, caption, rerun, divider,
-                       image)
+                       session_state, button, caption, rerun)
 
 from utilis.tools import parameters, model_caller, Timer
 
@@ -35,9 +34,12 @@ if model != "Select a Model":
         with chat_message("user"):
             write(prompt)
 
+        # Create a full prompt with the conversation history
+        prompt_all = "\n".join([msg["content"] for msg in session_state.messages])
+
         with Timer(2, description="Local Model Call") as timer:
             with chat_message("assistant"):
-                response = model_caller(model, temperature, top_p, prompt)  # 生成 AI 回复
+                response = model_caller(model, temperature, top_p, prompt_all)  # 生成 AI 回复
                 write(response)
 
                 # Add the AI response to the chat history
