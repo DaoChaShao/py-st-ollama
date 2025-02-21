@@ -6,9 +6,12 @@
 # @File     :   main.py
 # @Desc     :   
 
+from utilis.layout import pages_layout
+
+
 def main() -> None:
-    """ Main Function """
-    pass
+    """ streamlit run main.py """
+    pages_layout()
 
 
 if __name__ == "__main__":
