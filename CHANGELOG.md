@@ -22,8 +22,8 @@
 
 ### Docs
 
+- update CHANGELOG.md. ([15b9e65](https://github.com///commit/15b9e65011eef15a7235e69598194fa7378a5717))
 - update README.md. ([a356d2d](https://github.com///commit/a356d2d7d8ce276c669087ba8702e968c8b8d39e))
-- update CHANGELOG.md. ([7481f85](https://github.com///commit/7481f8585246807c8ef6484df6499f67b846f03f))
 
 ### Performance Improvements
 
