@@ -1,3 +1,4 @@
 git-changelog==2.5.3
-streamlit==1.42.2
 ollama==0.4.7
+requests==2.32.3
+streamlit==1.42.2
