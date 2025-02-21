@@ -5,6 +5,7 @@
 
 ### Features
 
+- add the context liking the LLM memory. ([3ac297f](https://github.com///commit/3ac297f3cc6649b8f8e4cd0ab1cd9c8613124125))
 - add the Ollama model call functions. ([08b5ae0](https://github.com///commit/08b5ae0283b792bcf1091d369e99fb1bc65699f5))
 - add the README.md. ([82acc75](https://github.com///commit/82acc755e3745983dad5744834e6462a07de3da3))
 - create the home page and application explanation. ([970ebea](https://github.com///commit/970ebeadf4377e694732bb9c2d392b71831d3cdf))
@@ -12,10 +13,17 @@
 
 ### Chore
 
+- add some documentation of the functions. ([5991cb3](https://github.com///commit/5991cb3d7da3cd53f4468e3cf44d837a7aeb57db))
+- ignore more files. ([dd333fe](https://github.com///commit/dd333feaf9fa932f094d7e6d25e5f3ab63501d19))
 - update the name of the log. ([ea35a51](https://github.com///commit/ea35a51938912895f9043badda2ca458addb5de7))
 - complete the instructions of using the application. ([1b5dec3](https://github.com///commit/1b5dec342e22620dc86560e9f960d549dace1142))
 - set the configration about changelog function. ([a933dc3](https://github.com///commit/a933dc3edf84963638a264a2706a0949a6dcc3e1))
 - create the customized package. ([0d6a424](https://github.com///commit/0d6a42452d31df0d626d33c1985e0f4c73caa1bd))
+
+### Docs
+
+- update README.md. ([a356d2d](https://github.com///commit/a356d2d7d8ce276c669087ba8702e968c8b8d39e))
+- update CHANGELOG.md. ([7481f85](https://github.com///commit/7481f8585246807c8ef6484df6499f67b846f03f))
 
 ### Performance Improvements
 
