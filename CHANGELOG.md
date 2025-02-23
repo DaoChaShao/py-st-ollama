@@ -23,6 +23,7 @@
 
 ### Docs
 
+- update CHANGELOG.md for version 0.1.0 ([c61643a](https://github.com/DaoChaShao/py-st-ollama/commit/c61643a08f5c6ed443a8e81fd6e9bfc1010b91e0))
 - update CHANGELOG.md. ([2fbaf91](https://github.com/DaoChaShao/py-st-ollama/commit/2fbaf9106809ee5d9d9ee4cd584289607d862178))
 - update README.md. ([a356d2d](https://github.com/DaoChaShao/py-st-ollama/commit/a356d2d7d8ce276c669087ba8702e968c8b8d39e))
 
